@@ -1,2 +1,2 @@
-# GMB_Data_Scraping_Tool
-Google MyBusiness data manipulation, filtering and extraction tool.
+# GMB_Data_Scraper_Tool
+Google My Business tool designated to extract data for google my business metrics.
