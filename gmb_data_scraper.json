@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "serpact-tool",
+  "private_key_id": "4f252c9fbbedca1a52ed57a71eb00fab838fb136",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCRtguZg8qXWgOI\no8stgh1WWAGowjlXu4h3dt8+QKxwlcLxzXPf27pHagliA25IkYnqIwe0/cHvfL6z\nfb/KPTPzEyre45E/OVTvq2rXqn1F3b2Y/HVqtOjEJCMeI4UOnh77Sm+QNJ3BXEAD\nd/98Vp4CD4DutAQ+7TjyPYuLJiMQfh/ei9GfcumPWFhLopcEX+q95ufNx7zROqab\n1TWFp9j/pfAynKvYU9e62hwtvzKUFcjpUp7V/KMQUj5njX8JfzsZkC7k+KFsBAHd\n/bCn2iDkvT2yqBb09WB53fmzWhmdlEqZ+Z27sLJMieqKJUyIniP75T8s1r6wmiXc\ntfdIwhjbAgMBAAECggEAA7TliYAxnkd0M48QQPGJiqh3m3scN3bWFrrA06O49hw5\nLZhdOfTi+H/QCm8bVjuI/AgQqmkkahroRLSgx4EdWg1VV9or2AC+yT1v7zUdEPvr\n6MphASEKt14JrqiW8Q7S9KaphieVEXpu/nC9BQ4ictuKrYfSyYpv4444GauBQo72\nrs1cCG+kINKBe2UENzOgSV8VUs4GZTDrvF+CuISVWfgkEtP5TmInPo9H/JeWhU9W\n8Gdzy2831JGeVyiBVmUoFp+tiZ2uEdgmsBqVkq5Js9NeMCFayHDp0/4WP5BcFblr\nQnxhjx/VGt+tVlDvSk1ZHTnIqLb/mdIA+WckrWeOYQKBgQDG8qIFrk0rhQBwZtN6\nfB8KGWHiTX4dGD/o2BBS2ScrQgETTuvtR+Am9Sn5E9cmvJkQ0sFJ0QFlrjcWbCcl\n0KTRkzePWqw1YiMl/nKw7LU2axIQzsNFexFAe+BdB6JAcNjQi13RPmBj/SLO6h13\nLwt54RZ2wLsKv69kyfCw3ZZjOQKBgQC7fyUpEn9J4XzjWKU6ggw4dIgHn80D6uyl\nsvMiovUYItmBC7IKPAkBFQ/I1GONybBGlW7F/QQ3DekLhUuCgAcAOBGGHU5bWiHi\ni/HX61ab9/2cZ7cYAv9fbN8KDm1cmxsOlRdWuNr0LIj9T05aqoI2wwLgyHhQh8UT\npWBxMth4swKBgG0B4v7j20q+LFhqLvPM8KDy+Wwq86/zaoklYgRTEaAlITu4IZM4\nr7wI1v+v/FIwQloycFAG4hIZm/uANQ8GPFjMpkO49eSmKgYWXjdM65munw5wjBQU\n84X2mh+/IArZCiNySWxuFhiTSbBAHPcB4vLb/xgAUDv6fZrm/yeZsl4ZAoGAFm3/\nZApyb8QpzIiuO3GTRK2sGD1lqTJRXQErVNlpuJlyq51ajx7fdOGwIbZGso+OJuN5\nfPXnqy5e0qH/hn0KWVxbvE+FMCh4JUHYjJv6oG3qSOufW6AALMo5ZFqVep6TfgsX\n36f9iXhKawMxvGbpbOOnVHym5/tV+COwhdovS0ECgYAiblDNWy4341TXmaiNQJkP\nzWyImZI7X/N2jc8q0PpzC3fhjAj2W2l/mQWLC9YHaQ3diOmv9zc8Jf7pZ5obnXdC\nqu+51mBXWA9eCweI+i3TO81Die/f4R/W4EdOBqmTggZULHikMxuJBh/k+a4nl1Cc\n1YTaIFDwCU1x5q3xyjqcWw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gmb-data-scraper@serpact-tool.iam.gserviceaccount.com",
+  "client_id": "100811209352312859115",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gmb-data-scraper%40serpact-tool.iam.gserviceaccount.com"
+}
